@@ -1,6 +1,6 @@
 ### PGC Internship Github
 Internship Repo
 
-##Section
-- item 1
-- item 2
+## First Section
+- item a
+- item b
